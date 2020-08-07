@@ -1,4 +1,4 @@
 package com.example.APImethods.service;
 
-public class APIservice {
+public interface APIserv {
 }
