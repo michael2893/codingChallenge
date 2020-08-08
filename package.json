@@ -1,0 +1,23 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "this is a basic web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael2893/codingChallenge.git"
+  },
+  "keywords": [
+    "front",
+    "end"
+  ],
+  "author": "michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michael2893/codingChallenge/issues"
+  },
+  "homepage": "https://github.com/michael2893/codingChallenge#readme"
+}

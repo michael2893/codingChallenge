@@ -1,0 +1,2 @@
+export const TAKE_ACTION_CLICK = 'TAKE_ACTION_CLICK';
+export const HANDLE_INPUT = 'HANDLE_INPUT';
